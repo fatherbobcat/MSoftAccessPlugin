@@ -1,4 +1,4 @@
 ### MSoftAccessPlugin
-Language: VBA
-Platform: Microsoft Access
+Language: VBA  
+Platform: Microsoft Access  
 Summary:
